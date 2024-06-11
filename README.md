@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Camila%20Sotomayor%20|%20Full%20Stack%09%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=1200&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Camila%20Sotomayor%20|%20Full%20Stack%20development%09%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=1200&height=150)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hola 👋, Soy Camila Sotomayor</h1>
 <h3 align="center">Una apasionada pero incipiente desarrolladora full stack js</h3>
 
