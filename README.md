@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy Camila Sotomayor</h1>
 <h3 align="center">Una apasionada pero incipiente desarrolladora full stack js</h3>
 
-- 🔭 Actualmente trabajo como webmaster en [Weezard SPA](mundovapo.cl)
+- 🔭 Actualmente trabajo como webmaster en [Weezard SPA](https://www.mundovapo.cl)
 
 - 🌱 Actualmente estoy desarrollándome como **Backend | node js**
 
