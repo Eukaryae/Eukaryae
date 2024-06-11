@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Conecta conmigo:</h3>
-- 📄 Conoce más sobre mis experiencias(https://www.linkedin.com/in/camila-sotomayor-avello/)
+- 📄 Conoce más sobre mis experiencias [Linkedin](https://www.linkedin.com/in/camila-sotomayor-avello/)
 
 <p align="left">
 </p>
