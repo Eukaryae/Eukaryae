@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Back%20End%20|%20Full%20Stack%20Development%20|%20Javascript%20|%20Node.js%20|%20Typescript%20|%20%09%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=1200&height=150)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hola 👋, soy Camila Sotomayor</h1>
 <h3 align="center">
-JavaScript | React.js | Node.js | SQL | Typescript
+JavaScript | React.js | Node.js | SQL | Express | PostgreSQL | Typescript
 
 ## Formas de contacto
 
