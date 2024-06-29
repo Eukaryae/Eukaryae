@@ -11,8 +11,8 @@ JavaScript | React.js | Node.js | SQL | Express | PostgreSQL | Typescript
 
 ## Qué hago
 - 🔭 Actualmente trabajo como webmaster y marketing digital en [Weezard](https://www.mundovapo.cl)
-- 👯 Colaborando en el proyecto [EcommerceTech](https://main.d1v4o3mt97tf62.amplifyapp.com/)
-- 📄 Conoce más sobre mis experiencias en [LinkedIn](https://www.linkedin.com/in/camila-sotomayor-avello/)
+- 👯 Colaboradora en el proyecto [EcommerceTech](https://main.d1v4o3mt97tf62.amplifyapp.com/)
+- 📄 Conoce más sobre mi en [LinkedIn](https://www.linkedin.com/in/camila-sotomayor-avello/)
 
 ## Lenguajes y herramientas
 
