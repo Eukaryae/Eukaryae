@@ -7,8 +7,6 @@ JavaScript | React.js | Node.js | SQL | Express | PostgreSQL | Typescript
 
 <p align="left">
   <a href="mailto:cami.igsa@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="30" height="30"/> </a>
-  <a href="https://calendly.com/cami-igsa" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/calendly.svg" alt="Calendly" width="30" height="30"/> </a>
-  <a href="https://wa.me/56936798785" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" alt="WhatsApp" width="30" height="30"/> </a>
 </p>
 
 ## Qué hago
